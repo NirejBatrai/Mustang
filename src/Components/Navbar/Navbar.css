@@ -9,12 +9,14 @@
 .logo {
   width: 160px;
   cursor: pointer;
+  background: transparent;
 }
 
 ul {
   flex: 1;
   list-style: none;
   text-align: center;
+  background: transparent;
 }
 
 ul li {
@@ -22,12 +24,14 @@ ul li {
   margin: 10px 20px;
   font-size: 20px;
   cursor: pointer;
+  background: transparent;
 }
 
 .toggle-icon {
   width: 50px;
   cursor: pointer;
   margin-left: 40px;
+  background: transparent;
 }
 
 .search-box {
